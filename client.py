@@ -1,7 +1,7 @@
 # /usr/bin/python
 # coding:UTF-8
 
-#木马客户端程序（黑客）
+#木马客户端程序（连接者）
 import socket
 import os
 def main():
